@@ -24,5 +24,5 @@
 
 $(document).ready(function(){
     console.log("hello");
-    $(".loader-wrapper").delay(3000).fadeOut("slow")
+    $(".loader-wrapper").delay(2000).fadeOut("slow")
 });
