@@ -21,6 +21,8 @@
 //    });
 // $("document").ready($(".loader-wrapper").fadeOut("slow"));
 
-$(window).on("load", function(){
-    $(".loader-wrapper").fadeOut("slow")
+
+$(document).ready(function(){
+    console.log("hello");
+    $(".loader-wrapper").delay(3000).fadeOut("slow")
 });
