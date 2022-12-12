@@ -22,7 +22,7 @@
 //     if {
 //         user
 //     } else {
-//         console.log("Please input a question.")
+//       alert("Please put in a question.")
 //     }
 // }
 

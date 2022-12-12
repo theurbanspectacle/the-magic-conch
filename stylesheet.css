@@ -7,6 +7,11 @@ body {
   background-color: #528de6;
 }
 
+
+
+
+
+/* Loading Screen Code */
 .loader-wrapper {
     width: 100%;
     height: 100%;
@@ -79,3 +84,4 @@ body {
     height: 0%;
   }
 }
+/* End of Loading Screen Code */
